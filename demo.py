@@ -1,1 +1,1 @@
-print("언어의 마술사")
+print("The Language Magician")
